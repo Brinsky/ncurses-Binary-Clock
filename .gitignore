@@ -1,0 +1,6 @@
+build/**
+binclock
+.sconsign.dblite
+**/*.swp
+**/*.swo
+docs/**
